@@ -1,7 +1,6 @@
 ## Olá! Me chamo Kailany.
 ## Estudante de desenvolvimento web
 
-- 📚 Currently studying Python
 ##
 
  <div align="center" display="block">
